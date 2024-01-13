@@ -36,7 +36,7 @@ class BankAccount:
 
     def transfer(self,amount,account):
         try:
-            print('\n*****************\n\n Beginning Transfer...🚀🚀🚀🚀')
+            print('\n*****************\n\n Beginning Transfer...🚀🚀')
             self.viableTransaction(amount)
             self.withdraw(amount)
             account.deposit(amount)
