@@ -42,7 +42,7 @@ class BankAccount:
             account.deposit(amount)
             print('\nTransfer complete!!✅✅\n\n*********')
         except BalanceException as error:
-            print(f"\nTransfer interrupted. ❌👎👎❌ {error}")
+            print(f"\nTransfer interrupted. ❌ {error}")
 
 class InterestRewardedAcc(BankAccount):
     def deposit(self,amount):
