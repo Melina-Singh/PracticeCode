@@ -25,4 +25,4 @@ Bllaze = SavingsAcc(1000, "Bllaze")
 Bllaze.getbalance()
 
 Bllaze.deposit(100)
-Bllaze.transfer(1000, Bela)
+Bllaze.transfer(1500, Bela)
