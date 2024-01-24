@@ -13,7 +13,7 @@ def logout():
 def shutdown():
     os.system("shutdown /s /t 1")
 
-st = Tk()
+st = Tk() 
 st.title("Shutdown App")
 st.geometry("500x500")
 st.config(bg = "Pink")
