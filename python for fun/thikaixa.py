@@ -1,9 +1,10 @@
 
 import random
 
+# this is a kind of dice game the turn stops once a player rolls 1
 def roll():
     min_value = 1
-    max_value = 6
+    max_value = 6 
     roll= random.randint(min_value, max_value)
 
     return roll
