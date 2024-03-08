@@ -11,7 +11,7 @@ Mele.deposit(6000)
 Bela.withdraw(1000)
 
 Mele.transfer(40000, Bela)
-Mele.transfer(1000, Bela)
+Mele.transfer(1000, Bela) 
 
 jim = InterestRewardedAcc(1000, "jim")
 
