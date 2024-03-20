@@ -41,20 +41,6 @@ class Line:
 
     def shortest_distance(line, point):
         return abs(line.A*point.x_coord + line.B*point.y_coord + line.C)/(line.A **2 + line.B**2)
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # P1 = Point(3,5)  #yo one point 
