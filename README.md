@@ -1,1 +1,1 @@
-this is the file for practice python 
+This repo includes all the practice codes
