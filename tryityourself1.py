@@ -1,3 +1,4 @@
+#functions
 def fav_book(title):
     print("My favourit book is David Goggins "+title.title() +"!!")
 
