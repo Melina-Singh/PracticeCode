@@ -1,1 +1,1 @@
-This repo includes all the practice codes
+This repo includes all the basic practice codes
