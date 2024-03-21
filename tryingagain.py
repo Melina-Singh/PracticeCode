@@ -4,7 +4,7 @@ class Point:
     def __init__(self, x, y):
         self.x_coord = x
         self.y_coord = y
-
+ 
     def __str__(self):
         return "{},{}".format(self.x_coord,self.y_coord)
     
