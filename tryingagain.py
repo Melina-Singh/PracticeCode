@@ -1,4 +1,5 @@
 # distance formula coordinate geometry
+# using the oop concept
 
 class Point:
     def __init__(self, x, y):
