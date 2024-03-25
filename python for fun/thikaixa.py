@@ -10,7 +10,7 @@ def roll():
     return roll
    
 # value = roll()
-# print(value) no  
+# print(value) no       
 
 while True:
     players = input("Enter the number of the players(2-4): ")
