@@ -1,8 +1,8 @@
 # pattern solving
 # 1. size (How many rows you want in the pattern)
-# every loop is made from right and left triangle pattern
 
-n = 5                     #square pattern
+#square pattern
+n = 5                    
 # print("*"*  n)
 for i in range(n): #rows
     for i in range(n):  #columns
@@ -26,9 +26,8 @@ for i in range(n):
     print()
 
 
+
 # Right sided triangle
-
-
 n = int(input("Enter the number of Rows: "))
 for i in range(n):
     for j in range(i, n):
