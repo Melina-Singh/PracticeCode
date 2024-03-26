@@ -1,5 +1,6 @@
 # pattern solving
 # 1. size (How many rows you want in the pattern)
+# every loop is made from right and left triangle pattern
 
 n = 5                     #square pattern
 # print("*"*  n)
