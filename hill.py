@@ -10,8 +10,8 @@ for i in range(n):
         
     print()
 
-
-#  diamond pattern
+  
+#  the diamond pattern
 n = 5  
 
 for i in range(n):
