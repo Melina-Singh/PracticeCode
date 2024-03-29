@@ -8,7 +8,7 @@ fav_book("Can't Hurt Me")
 # Passing Arguments  
  # this is fine
 # positional arguments  
-
+ 
 def describe_pet(animal_ko_type, pet_name):
 # Display information about the pet
     print("\n I have a "+ animal_ko_type+ ".")
