@@ -11,7 +11,7 @@ class Restaurant:
     def open_restaurant(self):
         print(f"{self.restaurant_name} is now open.")
 
-class IceCreamStand(Restaurant):
+class IceCreamStand(Restaurant):    
 
     def __init__(self, restaurant_name, cuisine_type, flavors):
         
