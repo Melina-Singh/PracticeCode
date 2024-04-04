@@ -10,7 +10,7 @@ class Users:
         print(f"UserName:  {self.username}")
         print(f"Email : {self.email}")
 
-class Admin(Users):
+class Admin(Users):   
     def __init__(self,fname, lname, username, email, privileges):
         super().__init__(fname, lname, username, email)
         self.privileges = privileges
