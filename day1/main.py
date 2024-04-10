@@ -6,7 +6,7 @@ import os
 
 def restart():
     os.system("Shutdown /r /t 1")
-def restart_time():
+def restart_time():              
     os.system("shutdown /r /t  20")
 def logout():
     os.system("shutdown -1")
